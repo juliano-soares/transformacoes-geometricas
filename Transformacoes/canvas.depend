@@ -1,0 +1,382 @@
+# depslib dependency file v1.0
+1589222603 source:d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1603974868 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\vector2.h
+
+1603975055 source:d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Bola.h"
+	"Relogio.h"
+	"Botao.h"
+
+1589214882 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\bola.h
+	"gl_canvas2d.h"
+
+1193164156 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\relogio.h
+	"gl_canvas2d.h"
+
+1589214891 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\botao.h
+	"gl_canvas2d.h"
+
+1589218349 source:d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1589222603 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\gl_1_canvasglut\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1603974868 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\gl_1_canvasglut\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\gl_1_canvasglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\gl_1_canvasglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\gl_1_canvasglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\gl_1_canvasglut\src\vector2.h
+
+1603975055 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\gl_1_canvasglut\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Bola.h"
+	"Relogio.h"
+	"Botao.h"
+
+1589214882 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\gl_1_canvasglut\src\bola.h
+	"gl_canvas2d.h"
+
+1193164156 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\gl_1_canvasglut\src\relogio.h
+	"gl_canvas2d.h"
+
+1589214891 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\gl_1_canvasglut\src\botao.h
+	"gl_canvas2d.h"
+
+1589218349 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\gl_1_canvasglut\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1654457311 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\analogclock\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1654458474 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\analogclock\relogio.h
+	"../../gl_canvas2d.h"
+
+1654473123 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Utils/Vector2.h"
+
+1426372440 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\vector2.h
+
+1654486137 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1655171784 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctime>
+	<iostream>
+	"sys/time.h"
+	"Modules/gl_canvas2d.h"
+	"Utils/Utils.h"
+	"Utils/Vector2.h"
+	"./Components/ClockHUD/ClockHUD.h"
+	"./Components/Cyclist/Cyclist.hpp"
+	"./Components/Parallax/Parallax.hpp"
+	"./Components/Speedometer/Speedometer.hpp"
+
+1654487512 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\analogclock\analogclock.h
+	"../../gl_canvas2d.h"
+
+1654487500 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\analogclock\analogclock.cpp
+	"AnalogClock.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"../../Utils/Utils.h"
+	"../../Utils/Vector2.h"
+
+1654461195 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\framerate\framerate.cpp
+	"FrameRate.h"
+
+1654461210 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\framerate\framerate.h
+	<stdio.h>
+	<time.h>
+
+1654538002 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\utils\utils.cpp
+	"../Modules/gl_canvas2d.h"
+	"Utils.h"
+	<unistd.h>
+	<iostream>
+
+1655169415 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\utils\utils.h
+	<vector>
+	<string>
+
+1654621821 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\utils\vector2.h
+
+1531759395 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\framerate\frames.h
+	<stdio.h>
+	<time.h>
+
+1655174553 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\parallax\parallax.cpp
+	<cmath>
+	<random>
+	<time.h>
+	<vector>
+	<algorithm>
+	"../../Utils/Utils.h"
+	"../../Utils/Vector2.h"
+	"../Curves/Curves.hpp"
+	"../../Modules/gl_canvas2d.h"
+	"Parallax.hpp"
+
+1654629090 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\speedometer\speedometer.cpp
+	"Speedometer.hpp"
+	"../../Modules/gl_canvas2d.h"
+	"../../Utils/Utils.h"
+	<iostream>
+	<string>
+	<math.h>
+
+1654530073 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\utils\matrix.cpp
+	"MatrixCalculation.hpp"
+	<cmath>
+
+1655169056 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\utils\matrix.hpp
+
+1654528992 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\clock\clock.cpp
+	"Clock.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"../../Utils/Utils.h"
+	"../../Utils/Vector2.h"
+
+1654529076 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\clock\clock.h
+	"../../Modules/gl_canvas2d.h"
+
+1654538642 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\modules\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"../Utils/Vector2.h"
+
+1654486137 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\modules\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1655174036 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\cyclist\pedal.cpp
+	"Pedal.hpp"
+	"../../Modules/gl_canvas2d.h"
+
+1655174811 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\cyclist\pedal.hpp
+	"../../Utils/Position.hpp"
+
+1654540159 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\utils\point.hpp
+	"MatrixCalculation.hpp"
+
+1654540701 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\utils\point.cpp
+	"Point.hpp"
+	"../Modules/gl_canvas2d.h"
+	<cmath>
+
+1654529229 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\cyclist\ciclista.cpp
+	"Ciclista.hpp"
+	"../../Modules/gl_canvas2d.h"
+	<cmath>
+
+1654529065 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\cyclist\ciclista.hpp
+	"../../Utils/Point.hpp"
+	"Roda.hpp"
+	"Pedal.hpp"
+
+1654614546 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\cyclist\roda.hpp
+	"../../Utils/Point.hpp"
+	<vector>
+
+1654614513 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\cyclist\roda.cpp
+	"Roda.hpp"
+	"../../Modules/gl_canvas2d.h"
+
+1655173671 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\clockhud\clockhud.h
+	"../../Modules/gl_canvas2d.h"
+	"../../Utils/Position.hpp"
+
+1655174690 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\clockhud\clockhud.cpp
+	"ClockHUD.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"../../Utils/Utils.h"
+	"../../Utils/Vector2.h"
+	"../../Utils/Position.hpp"
+
+1655173933 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\cyclist\cyclist.cpp
+	"../../Modules/gl_canvas2d.h"
+	"Cyclist.hpp"
+	"../Curves/Curves.hpp"
+	<cmath>
+
+1655174803 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\cyclist\cyclist.hpp
+	"Wheel.hpp"
+	"Pedal.hpp"
+	"../../Utils/Position.hpp"
+	"../Curves/Curves.hpp"
+
+1654530038 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\utils\matrixcalculation.hpp
+
+1654555230 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\speedometer\speeddometer.hpp
+	"../../Modules/gl_canvas2d.h"
+	"../../Utils/Point.hpp"
+
+1655174821 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\parallax\parallax.hpp
+	<iostream>
+	<queue>
+	<vector>
+	"../../Modules/gl_canvas2d.h"
+	"../../Utils/Position.hpp"
+
+1655174842 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\speedometer\speedometer.hpp
+	"../../Modules/gl_canvas2d.h"
+
+1651595196 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\button\button.cpp
+	"Button.h"
+	"../../Modules/gl_canvas2d.h"
+	"../../Utils/Utils.h"
+	<iostream>
+
+1654562708 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\button\button.h
+	<string>
+
+1655172929 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\curves\curves.cpp
+	"Curves.hpp"
+	"../../Modules/gl_canvas2d.h"
+	"../../Utils/Utils.h"
+	<cmath>
+	<vector>
+
+1655166603 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\curves\curves.hpp
+	"../../Utils/Position.hpp"
+	"../../Utils/Utils.h"
+
+1655170123 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\utils\position.hpp
+	"MyMatrix.hpp"
+
+1655174815 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\cyclist\wheel.hpp
+	"../../Utils/Position.hpp"
+	<vector>
+
+1655174038 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\components\cyclist\wheel.cpp
+	"Wheel.hpp"
+	"../../Modules/gl_canvas2d.h"
+
+1655170366 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\utils\position.cpp
+	"Position.hpp"
+	"../Modules/gl_canvas2d.h"
+	<cmath>
+
+1655169347 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\utils\mymatrix.hpp
+
+1655171928 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t3_julianosoares\src\utils\mymatrix.cpp
+	"MyMatrix.hpp"
+	<cmath>
+
