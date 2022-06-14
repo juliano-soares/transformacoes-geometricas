@@ -1,7 +1,7 @@
 # Transformações geométricas
 
 <div style="align-item:center;">
-    <img src="./Transformacoes/resources/Cyclist.png" width="800" alt="captura do projeto."/>
+    <img src="./Transformacoes/resources/Cyclist.PNG" width="800" alt="captura do projeto."/>
 </div>
 
 ## Descrição:
